@@ -4,7 +4,7 @@ function Home() {
     return (
       <div>
         <div className="toppage-container">
-        <h1 className="main-heading">Welcome to Hopium Dao</h1>
+        <h1 className="main-heading">Hopium Dao</h1>
         </div>
 
         <div>

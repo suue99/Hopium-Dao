@@ -1,0 +1,33 @@
+
+.about-page{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.section1{
+    background-color: white;
+    height: 400px;
+    color: black;
+}
+
+
+.section2{
+    height: 400px;
+
+}
+
+
+
+.section3{
+    background-color: white;
+    height: 400px;
+    color: black;
+}
+
+.section4{
+    height: 400px;
+
+}
