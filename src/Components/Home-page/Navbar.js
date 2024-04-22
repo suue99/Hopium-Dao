@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '/Users/suue/Desktop/hopium-project/src/Components/Home-page/navbar.css'
+import '../Home-page/navbar.css'
 
 function Navbar (){
     

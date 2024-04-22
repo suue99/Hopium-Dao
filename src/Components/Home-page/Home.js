@@ -1,4 +1,4 @@
-import '/Users/suue/Desktop/hopium-project/src/Components/Home-page/home.css'
+import '../Home-page/home.css'
 
 function Home() {
     return (

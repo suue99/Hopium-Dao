@@ -1,4 +1,4 @@
-import '/Users/suue/Desktop/hopium-project/src/Components/About-page/about.css'
+import '../About-page/about.css'
 
 function About () {
 
